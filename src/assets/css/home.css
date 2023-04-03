@@ -1,0 +1,36 @@
+#btn{
+    background-color:#89C4E1 ;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    border-color: transparent;
+    font-size: 15px;
+    margin: 5% 0 0 5%;
+}
+#img{
+    width: 130%;
+    padding:30% 0 20% 30%;
+}
+#main2{
+    padding:30% 0 15% 20%;
+}
+#main3{
+    padding:25% 0 15% 20%;
+}
+#rimg{
+    width: 100%;
+    padding:40% 0 0% 0%;
+}
+
+#rsub{
+    text-align: center;
+}
+#rbtn{
+    background-color:#89C4E1 ;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    border-color: transparent;
+    font-size: 15px;
+    margin: 5% 0 20% 5%;
+}

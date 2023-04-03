@@ -1,0 +1,64 @@
+#logo{
+    width:100px;
+}
+#appbar{
+    padding: 20px;
+    background-color: white ;
+    box-shadow: none;
+    position: fixed;
+}
+#navitems1{
+    margin-top:10px ;
+    padding: 0px 20px 0px 50px;
+    font-size: 15px;
+    font-weight: 700;
+    color: black;
+}
+#navitems2{
+    padding: 15px 20px 0px 50px ;
+    font-size: 15px;
+    font-weight: 700px ;
+    color: black;
+}
+#navbutton{
+    background-color:#89C4E1 ;
+    color: white;
+    border-radius: 5px;
+    padding: 0px 20px 0px 20px;
+    border-color: transparent;
+    font-size: 15px;
+}
+
+#rlogo{
+    width:150px;
+    padding: 40px;
+}
+
+#closeicon{
+font-size:40px;
+margin-top: 15%;
+padding: 0px 30px 0px 30px;
+}
+
+#menuicon{
+    font-size: 40px;
+    color: black;
+    margin-top: 10px;
+}
+#rnavitems1{
+    margin-top:10px ;
+    padding: 0px 20px 0px 50px;
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+}
+
+#rnavbutton{
+    background-color:#89C4E1 ;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    border-color: transparent;
+    font-size: 25px;
+    margin:10px 20px;
+}
